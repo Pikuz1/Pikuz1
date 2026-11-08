@@ -1,9 +1,10 @@
-- 👋 Hi, I’m an enthusiastic Fullstack Developer who enjoys developing responsive web applications and websites and has been working with startups for the past 4 years.
-- :mortar_board: I have done my Masters in Computer Science with focus on Software Development and Network Systems. 
-- 🌱 My strongest skills lie within React and Angular Frameworks. I have been learning front-end development for the last 4 years from some private institutes and online courses. I additionally learned about backend skills and testing libraries from my past experiences which led me to have an interest in automated testing.
-- 💞️ I am looking for a Fullstack or DevOps Engineer position that will help me to gain more knowledge about cloud systems. As a fast learner, I will be happy to adapt to any new stack which the clients require.
+- 👋 Hi, I'm Priyanka, an AI Engineer and Full-Stack Software Engineer with 5+ years of experience building production-grade web platforms across fintech, analytics, and automation. I'm now focused on building LLM applications end to end.
+- :mortar_board: I hold a Master's in Computer Science from Paderborn University, with an academic background in machine learning, reinforcement learning, and network routing algorithms.
+- 🤖 My AI work: RAG, embeddings and vector search (LangChain, ChromaDB, Gemini API), retrieval evaluation, and conversational chatbot interfaces. Recently built **DocuMind**, a multilingual RAG assistant that answers questions about German and English contracts with page-level citations.
+- 🌱 My strongest skills: Python/FastAPI backends and React, Next.js, Angular and TypeScript frontends. I care about quality and reliability, with Playwright, pytest, Vitest and Cypress for testing, plus Docker and GitHub Actions for CI/CD. I also enjoy data visualization (Chart.js, Three.js).
+- 💞️ I'm looking for an AI Engineer or Full-Stack (AI/LLM) role where I can build and ship LLM-powered products. As a fast learner, I'm happy to adapt to any new stack.
+- 🌐 Portfolio: https://priyanka-giri-fullstack-developer.netlify.app/
 - 📫 Email: priyanka.giri.0397@gmail.com
-
 <!---
 pikuzz/pikuzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
